@@ -1,3 +1,3 @@
 # MATH3604 2019 Introduction to Computational Mathematics
 
-Some of the problem sets and presentation during the class
+The problems sets about computational mathematics and my presentation for the applications of SVD in handwriting recognization during the semester
