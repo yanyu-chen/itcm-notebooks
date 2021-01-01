@@ -5,6 +5,7 @@ The problems sets about Computational Mathematics and my presentation for the ap
 ## Contents
 1. lab 1
 2. lab 2
-3. lab 3
-4. lab 4
+3. lab 3/exercise
+4. lab 4/exercise
 5. lab 5
+5. Final Presentation: ITCM_Classification of Handwritten Digits-checkpoint.ipynb
