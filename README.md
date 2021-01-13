@@ -8,4 +8,4 @@ The problems sets about Computational Mathematics and my presentation for the ap
 3. lab 3/exercise:Fixed-point and Aitken's $\Delta^2$ method, and interpolation points: equidistant and Chebyshev nodes
 4. lab 4/exercise: Finite differences and numerical integrals: quadrature formulas, the Simpson's rule and the Gauss-Legendre formula
 5. lab 5: Forward-backward substitution and Gaussian Elimination
-5. Final Presentation: ITCM_Classification of Handwritten Digits-checkpoint.ipynb
+5. Final Presentation: <a='https://github.com/yanyuchen/itcm-notebooks/blob/master/ITCM_Classification%20of%20Handwritten%20Digits-checkpoint.ipynb'>Classification of Handwritten Digits</a>
